@@ -1,6 +1,6 @@
 # rolesPermissionTestApp
-
-a [Sails](http://sailsjs.org) application to try out sails-role-permissions hook.
+a [Sails](http://sailsjs.org) application to try out [sails-role-permissions](https://github.com/l1br3/sails-role-permissions) hook.
+Just `sails lift` and try to reach following URIs
 
 # How to
 lift the server and try the following routes:
