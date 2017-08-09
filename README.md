@@ -16,6 +16,5 @@ lift the server and try the following routes:
 - api/policies/auth
 - api/policies/otherAuth
 - config/routes
-- config/roles
 - config/permissions
 - config/policies
