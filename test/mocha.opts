@@ -1,0 +1,6 @@
+./test/**/*.test.js
+--reporter spec
+--ui bdd
+--recursive
+--timeout 5000
+--compilers :./test/babel-setup.js
